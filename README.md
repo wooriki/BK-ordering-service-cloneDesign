@@ -1,5 +1,6 @@
-# 사용자가 원하는 메뉴를 카트에 담고 계산을 제공하는 service
+사용자가 원하는 메뉴를 카트에 담고 계산을 제공하는 service
 
+추후 코멘터링.
 
 
 ![4](https://github.com/wooriki/BK-ordering-service-cloneDesign/assets/109304556/f62d797f-ba2f-4bb8-811d-cbded5433c98)
